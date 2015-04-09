@@ -3,6 +3,8 @@ This was the course on JavaScript Loops, Arrays and Objects on Treehouse. This p
 
 Fixed a bug that was causing the student data not to show until you quit the program. This was due to the Google fonts link I used to render the Lato Font Family. After removing this, the code worked fine, but only in Chrome and Firefox. Unfortunately, it still doesn't work quite properly in Safari.
 
+Student names are: Mijelor, Vero, Nate, Capelito, Kathrin.
+
 Best,
 
 Nathaniel
